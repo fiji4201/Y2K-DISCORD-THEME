@@ -9,7 +9,7 @@
   - revert title/display font
 */
 .container-3baos1 {
-  border-top: solid 1px rgb(250, 87, 177);
+  border-top: solid 1px rgb(125, 250, 87);
   margin-bottom: 0px
 }
 .panels-j1Uci_ .flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6, .actions-aUdUfC {
@@ -22,7 +22,7 @@
   box-shadow: inset 0 0 0 1px #fff4, 0 0 0 1px #0002
 }
 .theme-light .button-14-BFJ path {
-  color: rgb(31, 31, 31)60)
+  color: rgb(9, 255, 0)60)
 }
 .content-1x5b-n {
   margin-left: 0px;
@@ -30,11 +30,11 @@
   border-radius: 0px;
 }
 .modeSelected-346R90 .content-1x5b-n {
-  background: linear-gradient(to bottom, #d45f96,#d65793 50%, #e24c92 50%,#f14093) !important;
+  background: linear-gradient(to bottom, #ffffff,#f390cd 50%, #fa67d5 50%,#ffcffb) !important;
   box-shadow: inset 2px 0 rgba(247, 129, 211, 0.733)
 }
 .theme-light .modeSelected-346R90 .content-1x5b-n {
-  background: linear-gradient(to bottom, #d45f96,#d65793 50%, #e24c92 50%,#f14093) !important;
+  background: linear-gradient(to bottom, #ffffff,#f390cd 50%, #fa67d5 50%,#ffcffb) !important;
   box-shadow: inset 2px 0 rgba(114, 137 218/0.6);
 }
 .scroller-RmtA4e::-webkit-scrollbar {
@@ -44,7 +44,7 @@
   padding: none;
 }
 .scroller-RmtA4e::-webkit-scrollbar-thumb {
-  background: linear-gradient(to left, #d45f96,#d65793 50%, #e24c92 50%,#f14093) !important;
+  background: linear-gradient(to left, #ffffff,#f390cd 50%, #fa67d5 50%,#ffcffb) !important;
   padding: none !important;
   margin: none !important;
   border-radius: 0px !important;
@@ -53,15 +53,15 @@
   border-top: solid 1px #37393e !important
 }
 .theme-light .scroller-RmtA4e::-webkit-scrollbar-thumb {
-  background: linear-gradient(to left, #d45f96,#d65793 50%, #e24c92 50%,#f14093) !important;
+  background: linear-gradient(to left, #ffffff,#f390cd 50%, #fa67d5 50%,#ffcffb) !important;
   border-bottom: solid 1px #ffffff !important;
   border-top: solid 1px #ffffff !important
 }
 .container-3w7J-x, .members-1998pB, .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller, .messagesWrapper-1sRNjr, .scroller-1JbKMe, .container-1D34oG, .theme-dark .sidebar-2K8pFh, .threadSidebar-1o3BTy, .container-1EOCj2, .scroller-9moviB {
-  background: linear-gradient(to bottom, #d45f96 0%,#f14093 100%) !important
+  background: linear-gradient(to bottom, #ffd3e6 0%,#ffb4d7ee 100%) !important
 }
 .theme-light .container-3w7J-x, .theme-light .members-1998pB, .theme-light .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller, .theme-light .scroller-2FKFPG, .theme-light .messagesWrapper-1sRNjr, .theme-light .scroller-1JbKMe, .theme-light .container-1D34oG, .theme-light .sidebar-2K8pFh, .theme-light .threadSidebar-1o3BTy, .theme-light .scroller-9moviB {
-  background: linear-gradient(to bottom, #d45f96 0%,#fc8bbf 100%) !important
+  background: linear-gradient(to bottom, #f1e7ec 0%,hsl(310, 92%, 67%) 100%) !important
 }
 .theme-dark .pageWrapper-1PgVDX {
   background: linear-gradient(to bottom, #353538 0%,#242529 100%) !important
@@ -114,7 +114,7 @@
   box-shadow: inset 0 2px #fff1
 }
 .theme-light .chat-3bRxxu form, .theme-light .threadSidebar-1o3BTy form {
-  background-image: linear-gradient(#e9eaef,#e4e9ef 50%,#d5d7da 50%, #b2b9bf);
+  background-image: linear-gradient(#ffffff,#e6e6e6 50%,#d5d7da 50%, #afafaf);
   box-shadow: inset 0 2px #0003
 }
 .scrollableContainer-2NUZem {
@@ -246,7 +246,7 @@
   box-shadow: inset 0 0 0 1px #fff7,0 1px 3px #0004
 }
 .mention-1f5kbO, .theme-light .mention-1f5kbO {
-  background: linear-gradient(to bottom, #bf5555, #903838 100%) !important;
+  background: linear-gradient(to bottom, #fac0db, hsl(315, 93%, 73%) 100%) !important;
   color: #fff;
 }
 .mention-1f5kbO:active, .theme-light .mention-1f5kbO:active {
@@ -393,7 +393,7 @@
   background: linear-gradient(#d0d0d0 0px,#bfbfbf 22px,#f3f3f3 10px)!important
 }
 .winButtonClose-1HsbF-, .winButtonMinMax-PBQ2gm {
-  border-left: solid 1px gray !important;
+  border-left: solid 1px black !important;
   transition: .2s;
   border-image: linear-gradient(#c5c5c5, #848484) 1 !important
 }
@@ -3440,11 +3440,11 @@ img[src="/assets/bb7f752540c7f4c7039c6dd6b5dd052e.svg"] {
   background: linear-gradient(#50515a, #303033)
 }
 .bd-addon-list .bd-addon-card {
-  background: linear-gradient(#50515a, #3b3b42);
+  background: linear-gradient(#5a5056, #3b3b42);
   box-shadow: 0 0 0 1px #000, inset 0 0 0 1px #fff3, 0 1px 4px #000;
 }
 .bd-addon-list .bd-addon-header {
-  background: #0003;
+  background: rgba(255, 255, 255, 0.2);
 }
 .lookFilled-1Gx00P:disabled, .lookFilled-1Gx00P:disabled:hover, .lookFilled-1Gx00P:disabled:active, .lookInverted-2D7oAl:disabled, .bd-button-disabled, .bd-button-disabled:hover, .bd-button-disabled:active {
   background: linear-gradient(to bottom, #383838, #2f2f2f 50%,#383838 50%, #4a4a4a) !important;
