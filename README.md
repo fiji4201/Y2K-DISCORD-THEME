@@ -1,1 +1,1 @@
-# Y2K-DISCORD-THEME
+This shit sucks lol
